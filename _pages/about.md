@@ -23,7 +23,7 @@ I am a master's student at Columbia University, advised by [Carl Vondrick](https
 
 My research focuses on leveraging large-scale pretraining of language and vision models to enhance the adaptability and capabilities of robotic systems, enabling them to handle a wide range of real-world scenarios and complex tasks.
 
-
+In my free time, I enjoy spending time with my friends building creative gadgets and systems such as [LightSense](/projects/1_project/). Feel free to email me to chat about research and opportunities!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
