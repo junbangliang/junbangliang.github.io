@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a master's student at Columbia University, advised by [Carl Vondrick](https://www.cs.columbia.edu/~vondrick/). Previously I completed my BE(Hons) in Mechatronics Engineering at The University of Auckland, where I worked on robotics at the [New Dexterity](https://newdexterity.org/) research group advised by [Minas Liarokapis](https://minasliarokapis.com/).
 
-My research focuses on leveraging large-scale pretraining of language and vision models to enhance the adaptability and capabilities of robotic systems, enabling them to handle a wide range of real-world scenarios and complex tasks.
+My research focuses on improving the scalability of robotic systems leveraging large-scale pretraining of language and vision models, pushing robots towards handling a wide range of real-world scenarios and complex tasks.
 
 In my free time, I enjoy spending time with my friends building creative gadgets and systems such as [LightSense](/projects/1_project/). Feel free to email me to chat about research and opportunities!
 
