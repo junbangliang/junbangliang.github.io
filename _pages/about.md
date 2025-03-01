@@ -23,7 +23,7 @@ I am a first-year PhD student at Columbia University, advised by [Carl Vondrick]
 
 My research focuses on developing scalable robot learning methods to equip robots with human-like dexterity and capability. By bridging the gap between vision-language models and real-world robots, I aim to create intelligent systems that can seamlessly interact with and adapt to complex, real-world environments.
 
-In my free time, I enjoy spending time with my friends building creative gadgets and systems such as [LightSense](/projects/1_project/). Feel free to email me to chat about research and opportunities!
+In my free time, I enjoy spending time with my friends building creative gadgets and systems such as [LightSense](/projects/1_project/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
