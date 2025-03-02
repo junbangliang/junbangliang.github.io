@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student at Columbia University, advised by [Carl Vondrick](https://www.cs.columbia.edu/~vondrick/). Previously I completed my MS in Computer Science at Columbia University and BE(Hons) in Mechatronics Engineering at The University of Auckland, where I worked on robotics at the [New Dexterity](https://newdexterity.org/) research group advised by [Minas Liarokapis](https://minasliarokapis.com/).
+<!-- I am a first-year PhD student at Columbia University, advised by [Carl Vondrick](https://www.cs.columbia.edu/~vondrick/). Previously I completed my MS in Computer Science at Columbia University and BE(Hons) in Mechatronics Engineering at The University of Auckland, where I worked on robotics at the [New Dexterity](https://newdexterity.org/) research group advised by [Minas Liarokapis](https://minasliarokapis.com/). -->
+
+I am a master's student at Columbia University, advised by [Carl Vondrick](https://www.cs.columbia.edu/~vondrick/). Previously I completed my BE(Hons) in Mechatronics Engineering at The University of Auckland, where I worked on robotics at the [New Dexterity](https://newdexterity.org/) research group advised by [Minas Liarokapis](https://minasliarokapis.com/).
 
 My research focuses on developing scalable robot learning methods to equip robots with human-like dexterity and capability. By bridging the gap between vision-language models and real-world robots, I aim to create intelligent systems that can seamlessly interact with and adapt to complex, real-world environments.
 
