@@ -37,6 +37,6 @@ My family moved to New Zealand in 2012. The sunrises and sunsets in Auckland are
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nz/dinner.JPG" title="example image" caption="New Dexterity Research Group" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/nz/dinner.jpg" title="example image" caption="New Dexterity Research Group" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
