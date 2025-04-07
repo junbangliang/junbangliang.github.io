@@ -5,6 +5,7 @@ description: Interactive XR Installation
 img: assets/img/LightSense.jpg
 importance: 1
 category: work
+hide_from_projects: false
 related_publications: false
 ---
 

@@ -24,14 +24,18 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% if project.hide_from_projects != true %}
+        {% include projects_horizontal.liquid %}
+      {% endif %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% if project.hide_from_projects != true %}
+        {% include projects.liquid %}
+      {% endif %}
     {% endfor %}
   </div>
   {% endif %}
@@ -50,14 +54,18 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
+      {% if project.hide_from_projects != true %}
+        {% include projects_horizontal.liquid %}
+      {% endif %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in sorted_projects %}
-      {% include projects.liquid %}
+      {% if project.hide_from_projects != true %}
+        {% include projects.liquid %}
+      {% endif %}
     {% endfor %}
   </div>
   {% endif %}
