@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: "Email: <a href='mailto:junbang.liang@columbia.edu'>junbang [dot] liang [at] columbia.edu</a>"
+subtitle: "Email: <a href='mailto:junbang.liang@columbia.edu'>junbang.liang [at] columbia.edu</a>, <a href='mailto:jlia904@aucklanduni.ac.nz'>jlia904 [at] aucklanduni.ac.nz</a>"
 
 profile:
   align: right
