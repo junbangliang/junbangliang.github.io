@@ -8,12 +8,12 @@ middle_name:
 last_name: Liang
 email: junbang.liang@columbia.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am a master’s student at Columbia University, my research focuses on developing generalized robots to handle a wide range of real-world scenarios and complex tasks.
+  I am a master’s student at Columbia University, my research focuses on mechatronics and mechanical design of robots and automation systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: Junbang, Liang, Columbia, robot, Auckland, uoa # add your own keywords or leave empty
+keywords: Junbang, Liang, Columbia, robot, Auckland, uoa, New Zealand, NZ # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: columbia.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: uoa.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://junbangliang.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
