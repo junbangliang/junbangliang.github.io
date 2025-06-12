@@ -23,7 +23,7 @@ I am a master's student at Columbia University. Previously I completed my BE(Hon
 
 My focus is on mechatronics and mechanical design of robots and automation systems.
 
-I grew up in New Zealand since my childhood as a pround Kiwi and [here](/projects/nz/) are some photos of New Zealand and my friends. I had an amazing time working on creative projects with them, including [LightSense](/projects/1_project/).
+I grew up in New Zealand and [here](/projects/nz/) are some photos of New Zealand and my friends. I had an amazing time working on creative projects with them, including [LightSense](/projects/1_project/).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
