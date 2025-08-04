@@ -7,7 +7,7 @@ subtitle: "Email: <a href='mailto:junbang.liang@columbia.edu'>junbang.liang [at]
 
 profile:
   align: right
-  image: original_photo_circle.png
+  image: corl_2022_photo.png
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
