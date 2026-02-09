@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a PhD student at Columbia University. Previously I completed my BE(Hons) in Mechatronics Engineering at The University of Auckland, where I worked on robotics at the [New Dexterity](https://newdexterity.org/) research group advised by [Minas Liarokapis](https://minasliarokapis.com/).
 
-I am interested in robots and I work on robot learning, mechatronics and robot mecahnisms.
+I am interested in robots and I work on robot learning, mechatronics and robot mechanisms.
 
 I grew up in [New Zealand](/projects/nz/) and I had an amazing time working on creative projects such as [LightSense](/projects/1_project/).
 
